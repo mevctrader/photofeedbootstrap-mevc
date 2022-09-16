@@ -1,0 +1,19 @@
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+}
+/* Codigo corazon dentro de placeholder en los comentarios de cada foto, desaparece al escribir */
+.form-control::placeholder{
+    text-indent: 20px;
+    background-image: url('https://cdn0.iconfinder.com/data/icons/business-office-1-7/55/35-1024.png');
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+#postimg{
+    display: flex;
+}
+
+#vacio{
+    font-size: 28px;
+}
